@@ -1,7 +1,7 @@
 # WebScrapper
 A program for scrapping Amazon and Flipkart India websites
 
-The details is explained in my YouTube Videos
+The codes are explained in details in my YouTube Videos
 
 Part 1: Web Scrapping Flipkart :https://www.youtube.com/watch?v=QjP8u7ksFYw
 
